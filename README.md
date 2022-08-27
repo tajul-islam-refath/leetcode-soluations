@@ -10,11 +10,15 @@
 
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783610808/)
 
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/784768146/)
+
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783626629/)
 
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783613546/)
 
 - [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/782748149/)
+
+- [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/784751758/)
 
 - [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783640986/)
 
