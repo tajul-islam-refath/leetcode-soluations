@@ -25,3 +25,9 @@
 - [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783640986/)
 
 - [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783727410/)
+
+
+## LIGHTOJ
+
+### Segment Tree
+- [Array Queries](https://lightoj.com/problem/array-queries) - [Soluation(cpp)](https://lightoj.com/submission/2427329)
