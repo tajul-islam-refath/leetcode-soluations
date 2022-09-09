@@ -6,7 +6,7 @@
 
 - [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/750782877/)
 
-- [136. Single Number](https://leetcode.com/problems/single-number/) - [Soluation(cpp)]([https://leetcode.com/submissions/detail/750782877/](https://leetcode.com/submissions/detail/752564178/))
+- [136. Single Number](https://leetcode.com/problems/single-number/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/752564178/)
 
 ### Linked List
 
