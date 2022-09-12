@@ -16,6 +16,8 @@
 
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783610808/)
 
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/798055326/)
+
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/784768146/)
 
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) - [Soluation(cpp)](https://leetcode.com/submissions/detail/783626629/)
